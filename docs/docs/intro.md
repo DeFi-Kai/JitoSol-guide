@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # What is JitoSOL?
 
+test
+
 ## MEV
 
 ## Liquid Staking
@@ -18,7 +20,8 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ## What you'll need
 
-- **Phantom Wallet**
+- **SPL Wallet**
+- **SOL**
 
 ## Generate a new site
 
